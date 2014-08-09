@@ -1,10 +1,9 @@
 {
-    "name": "vendor/jugger",
-    "description": "My first Composer project",
+    "name": "Jugger",
+    "description": "Tiny powerful php framework, enjoy!",
     "authors": [
         {
-            "name": "FoRys",
-            "email": "your@name.com"
+            "name": "FoRys"
         }
     ],
     "minimum-stability": "dev",
